@@ -6,3 +6,6 @@ Folders and Files:
 
 -Resources --> crypto-market-data.csv
 
+Analysis in notebook
+
+Helpful link: https://holoviz.org/tutorial/Composing_Plots.html
